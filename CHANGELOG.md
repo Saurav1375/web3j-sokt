@@ -11,7 +11,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 * Replace static compiler release lookup with official Solidity binary index resolution [#13](https://github.com/LFDT-web3j/web3j-sokt/pull/13)
-* Add dynamic platform-specific `solc` binary discovery and Linux ARM64 support [#40](https://github.com/LFDT-web3j/web3j-sokt/issues/40)
 
 ### BREAKING CHANGES
 
